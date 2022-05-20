@@ -105,6 +105,7 @@ while True:
     print(freq)
 
     # probably should put in seperate function but too lazy now
+    # uncomment to use the inputs
     # keys = ['a', 'b', 'c', 'd', 'e','f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
     
     # c = 259 # 261.626
