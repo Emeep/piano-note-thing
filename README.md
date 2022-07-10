@@ -1,2 +1,2 @@
 # piano-note-thing
-detect notes with piano but badly
+detect piano notes but badly
